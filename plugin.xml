@@ -52,7 +52,7 @@
     <framework src="com.android.support:appcompat-v7:25.3.0" />
     <framework src="com.android.support.constraint:constraint-layout:1.0.2" />
     <framework src="com.android.support:multidex:1.0.1" />
-    <framework src="com.android.support:design:25.3.0" />
+    <framework src="com.android.support:design:27.0.0" />
     <framework src="com.dji:dji-sdk:4.6"/>
 
 </plugin>
