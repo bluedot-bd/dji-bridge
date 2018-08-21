@@ -33,7 +33,7 @@
     </js-module>
 
     <engines>
-      <engine name="cordova-android" version=">=4.0.0" />
+      <engine name="cordova-android" version=">=5.0.0" />
     </engines>
 
     <platform name="android">
@@ -53,6 +53,6 @@
     <framework src="com.android.support.constraint:constraint-layout:1.0.2" />
     <framework src="com.android.support:multidex:1.0.1" />
     <framework src="com.android.support:design:25.3.0" />
-    <framework src="com.dji:dji-sdk:4.3.2"/>
+    <framework src="com.dji:dji-sdk:4.6"/>
 
 </plugin>
